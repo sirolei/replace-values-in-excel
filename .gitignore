@@ -1,2 +1,6 @@
 xlsx_files
 xlsx_files_out
+.DS_Store
+extracts_files
+extracts_files_out
+total_result.csv

@@ -10,5 +10,7 @@
 - modify the directries in  __main__ functions
 ```
     python version_xlwt.py
-    python version_xlwings.py
+    python version_xlwings.py (need microsoft excel installed)
+    python extract_mobile_xlwings.py (need microsoft excel installed)
+    python extract_mobile_xlwt.py
 ```
